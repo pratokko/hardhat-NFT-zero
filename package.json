@@ -1,0 +1,24 @@
+{
+  "name": "hardhat-project",
+  "devDependencies": {
+    "hardhat": "^2.12.7"
+  },
+  "dependencies": {
+    "@chainlink/contracts": "^0.6.1",
+    "@nomicfoundation/hardhat-chai-matchers": "^1.0.6",
+    "@nomicfoundation/hardhat-toolbox": "^2.0.1",
+    "@nomiclabs/hardhat-ethers": "^2.2.2",
+    "@nomiclabs/hardhat-etherscan": "^3.1.6",
+    "@openzeppelin/contracts": "^4.8.1",
+    "@pinata/sdk": "^2.1.0",
+    "dotenv": "^16.0.3",
+    "ethers": "^4.0.49",
+    "hardhat-contract-sizer": "^2.8.0",
+    "hardhat-deploy": "^0.11.23",
+    "hardhat-deploy-ethers": "^0.3.0-beta.13",
+    "hardhat-gas-reporter": "^1.0.9",
+    "hardhat-shorthand": "^1.0.0",
+    "path": "^0.12.7",
+    "solidity-coverage": "^0.8.2"
+  }
+}
